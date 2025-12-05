@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Suddenly",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-05T16:50:40.350039Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Suddenly There Is a Tidal Wave",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/01_Suddenly_There_Is_a_Tidal_Wave_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Suddenly",
+      "artist": "Billy Ocean",
+      "has_synced": true,
+      "path": "select/02_Suddenly_Billy_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Suddenly〜ラブ・ストーリーは突然に〜",
+      "artist": "Debbie Gibson",
+      "has_synced": false,
+      "path": "select/03_Suddenly〜ラブ・ストーリーは突然に〜_Debbie_Gibson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Suddenly 〜ラブ・ストーリーは突然に〜",
+      "artist": "Debbie Gibson",
+      "has_synced": false,
+      "path": "select/04_Suddenly_〜ラブ・ストーリーは突然に〜_Debbie_Gibson.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Suddenly",
+      "artist": "Maxx",
+      "has_synced": false,
+      "path": "select/05_Suddenly_Maxx.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Suddenly",
+      "artist": "A$AP Rocky",
+      "has_synced": true,
+      "path": "select/06_Suddenly_A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Suddenly",
+      "artist": "BT",
+      "has_synced": true,
+      "path": "select/07_Suddenly_BT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Suddenly Everything Has Changed",
+      "artist": "The Postal Service",
+      "has_synced": true,
+      "path": "select/08_Suddenly_Everything_Has_Changed_The_Postal_Service.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Suddenly Everything Has Changed - Remastered",
+      "artist": "The Postal Service",
+      "has_synced": true,
+      "path": "select/09_Suddenly_Everything_Has_Changed_-_Remastered_The_Postal_Service.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Suddenly I See",
+      "artist": "KT Tunstall",
+      "has_synced": true,
+      "path": "select/10_Suddenly_I_See_KT_Tunstall.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Suddenly I See (Live In Aberdeen 2005)",
+      "artist": "KT Tunstall",
+      "has_synced": false,
+      "path": "select/11_Suddenly_I_See_(Live_In_Aberdeen_2005)_KT_Tunstall.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Suddenly I See - Live From The Outsider Festival,Scotland,United Kingdom/2007",
+      "artist": "KT Tunstall",
+      "has_synced": false,
+      "path": "select/12_Suddenly_I_See_-_Live_From_The_Outsider_Festival,Scotland,United_Kingdom_2007_KT_Tunstall.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Suddenly I See [live!]",
+      "artist": "KT Tunstall",
+      "has_synced": false,
+      "path": "select/13_Suddenly_I_See_[live!]_KT_Tunstall.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Suddenly Is Sooner Than You Think",
+      "artist": "Dntel",
+      "has_synced": false,
+      "path": "select/14_Suddenly_Is_Sooner_Than_You_Think_Dntel.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Suddenly Is Sooner Than You Think (feat. Meredith Figurine)",
+      "artist": "Dntel",
+      "has_synced": false,
+      "path": "select/15_Suddenly_Is_Sooner_Than_You_Think_(feat._Meredith_Figurine)_Dntel.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Suddenly",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Suddenly_ONE_OK_ROCK.txt"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+# ONE OK ROCK – Suddenly
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Spitting gas on the fire
+That's burning this town
+Pieces really conspire
+We shut'em all down
+Then suddenly
+I'm breaking past the lies
+It's something magical
+We outta say a lullaby
+Into the pain I go
+Say our last goodbye
+Suddenly
+Tired of living
+the straight life
+Outside the lines
+Open up to disaster
+And paradise
+We're standing on the edge
+Then suddenly
+I'm breaking past the lies
+It's something magical
+We outta say a lullaby
+Into the pain I go
+Say our last goodbye
+Suddenly
+Where should I go?
+I cannot be the one I see
+in magazines
+Where should I go?
+I cannot be the one I see
+in magazines
+Where should I go?
+I cannot be the one I see
+in magazines
+Where should I go?
+I cannot be the one I see
+in magazines
+Then suddenly
+I'm breaking past the lies
+It's something magical
+We outta say a lullaby
+Into the pain I go
+Say our last goodbye
+Suddenly
+Suddenly
+Suddenly …
+```
